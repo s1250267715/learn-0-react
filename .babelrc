@@ -1,0 +1,4 @@
+{
+  // https://babeljs.io/docs/en/babel-preset-react
+  "presets": ["@babel/preset-react"]
+}

@@ -1,0 +1,8 @@
+html, body{
+  /* background: url('./icon.jpeg');
+  background-size:120px 200px; */
+}
+.img{
+  width: 120px;
+  height: 200px;
+}
